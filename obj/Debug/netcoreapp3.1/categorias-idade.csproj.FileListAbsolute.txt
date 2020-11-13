@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\categorias-idade\obj\Debug\netcoreapp3.1\categorias-idade.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\categorias-idade\obj\Debug\netcoreapp3.1\categorias-idade.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\categorias-idade\obj\Debug\netcoreapp3.1\categorias-idade.AssemblyInfo.cs
+C:\Users\dev\Desktop\categorias-idade\obj\Debug\netcoreapp3.1\categorias-idade.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\categorias-idade\bin\Debug\netcoreapp3.1\categorias-idade.exe
+C:\Users\dev\Desktop\categorias-idade\bin\Debug\netcoreapp3.1\categorias-idade.deps.json
+C:\Users\dev\Desktop\categorias-idade\bin\Debug\netcoreapp3.1\categorias-idade.runtimeconfig.json
+C:\Users\dev\Desktop\categorias-idade\bin\Debug\netcoreapp3.1\categorias-idade.runtimeconfig.dev.json
+C:\Users\dev\Desktop\categorias-idade\bin\Debug\netcoreapp3.1\categorias-idade.dll
+C:\Users\dev\Desktop\categorias-idade\bin\Debug\netcoreapp3.1\categorias-idade.pdb
+C:\Users\dev\Desktop\categorias-idade\obj\Debug\netcoreapp3.1\categorias-idade.dll
+C:\Users\dev\Desktop\categorias-idade\obj\Debug\netcoreapp3.1\categorias-idade.pdb
+C:\Users\dev\Desktop\categorias-idade\obj\Debug\netcoreapp3.1\categorias-idade.genruntimeconfig.cache
